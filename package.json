@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unickortega/express_sample.git"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "express-validator": "^5.0.3",
+    "mysql": "^2.15.0"
+  },
+  "author": "Uelmar Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unickortega/express_sample/issues"
+  },
+  "homepage": "https://github.com/unickortega/express_sample#readme"
+}
